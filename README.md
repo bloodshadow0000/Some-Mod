@@ -1,2 +1,2 @@
 # Some-Mod
-LOR or Starbound
+LOR or Starbound or FFXIV
